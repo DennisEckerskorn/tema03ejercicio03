@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tema03ejercicio03</string>
+    <string name="tvTitle">Head or Tails</string>
+    <string name="tvMessage">Place your Bet!</string>
+    <string name="bHead">Head</string>
+    <string name="bTails">Tails</string>
+    <string name="winnerMessage">You have won!</string>
+    <string name="loserMessage">You have lost!</string>
+    <string name="coin_head">Coin Head</string>
+    <string name="coin_tails">Coin Tails</string>
+
+</resources>

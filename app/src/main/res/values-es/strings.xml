@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tema03ejercicio03</string>
+    <string name="tvTitle">Cara o Cruz</string>
+    <string name="tvMessage">Haz tu apuesta!</string>
+    <string name="bHead">Cara</string>
+    <string name="bTails">Cruz</string>
+    <string name="winnerMessage">Has Ganado!</string>
+    <string name="loserMessage">Has Perdido!</string>
+    <string name="coin_head">Moneda Cara</string>
+    <string name="coin_tails">Moneda Cruz</string>
+</resources>
